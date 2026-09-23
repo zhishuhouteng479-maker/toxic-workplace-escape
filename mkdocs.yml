@@ -1,0 +1,6 @@
+﻿site_name: 逃げるが勝ちサバイバル
+site_description: 退職代行・特化型転職・独立支援
+theme:
+  name: material
+  palette:
+    primary: slate
